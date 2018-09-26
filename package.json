@@ -1,0 +1,17 @@
+{
+  "name": "city-country",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramesh",
+  "license": "ISC",
+  "dependencies": {
+    "capitalize": "^2.0.0",
+    "json2csv": "^4.2.1",
+    "json2xls": "^0.1.2",
+    "xlsx": "^0.14.0"
+  }
+}
