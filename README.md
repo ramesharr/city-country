@@ -20,3 +20,7 @@ node index.js
 
 ```
 The program will read from abcnews-date-text.xlsx and return output.xlsx matched country or city records with initail capitalized.
+
+## Export to CSV.
+
+If you want to export data in csv format, uncomment the commented lines in index.js, it will return csv and excel output as well
