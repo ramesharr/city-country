@@ -19,4 +19,4 @@ npm install
 node index.js
 
 ```
-The program will take read from abcnews-date-text.xlsx and return output.xlsx matched country or city records with initail capitalized.
+The program will read from abcnews-date-text.xlsx and return output.xlsx matched country or city records with initail capitalized.
